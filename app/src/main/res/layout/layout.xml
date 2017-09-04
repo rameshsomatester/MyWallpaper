@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Options"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:layout_margin="5sp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        />
+    <View
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="@color/Grey"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10sp">
+
+        <TextView
+            android:id="@+id/Set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="14sp"
+            android:layout_margin="14sp"
+            android:text="Set wallpaper"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="@android:color/black" />
+        <View
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="@color/Grey"/>
+
+        <TextView
+            android:id="@+id/Share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="14sp"
+            android:outlineProvider="bounds"
+            android:layout_margin="14sp"
+            android:text="Share"
+            android:textStyle="normal"
+            android:textSize="20sp"
+            android:textColor="@android:color/black" />
+        <View
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="@color/Grey"/>
+    </LinearLayout>
+</LinearLayout>
+
+
