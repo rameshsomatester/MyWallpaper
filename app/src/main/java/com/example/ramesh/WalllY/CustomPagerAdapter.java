@@ -23,11 +23,10 @@ public class CustomPagerAdapter extends PagerAdapter {
     }
 
     public int[] DrawableList = {
-            R.drawable.BLISS2,
+            R.drawable.blast,
             R.drawable.abnimal,
             R.drawable.ball,
             R.drawable.ball,
-            R.drawable.blast,
             R.drawable.bliss,
             R.drawable.blisss,
             R.drawable.blissss,
@@ -39,7 +38,8 @@ public class CustomPagerAdapter extends PagerAdapter {
             R.drawable.jumbo,
             R.drawable.random,
             R.drawable.spec,
-            R.drawable.spect
+            R.drawable.spect,
+            R.drawable.oreo
     };
 
 
