@@ -1,4 +1,4 @@
-package com.example.ramesh.mywallpaper;
+package com.example.ramesh.WalllY;
 
 import org.junit.Test;
 

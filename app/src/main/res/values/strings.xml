@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MyWallpaper</string>
+    <string name="app_name">Wally</string>
     <string name="Action">Tap on image for options</string>
+    <string name="send_to">Share image to</string>
 </resources>

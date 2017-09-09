@@ -1,4 +1,4 @@
-package com.example.ramesh.mywallpaper;
+package com.example.ramesh.WalllY;
 
 
 import android.content.Context;
@@ -23,13 +23,23 @@ public class CustomPagerAdapter extends PagerAdapter {
     }
 
     public int[] DrawableList = {
-            R.drawable.index,
-            R.drawable.index1,
-            R.drawable.test1,
-            R.drawable.test2,
-            R.drawable.test3,
-            R.drawable.tester
-
+            R.drawable.BLISS2,
+            R.drawable.abnimal,
+            R.drawable.ball,
+            R.drawable.ball,
+            R.drawable.blast,
+            R.drawable.bliss,
+            R.drawable.blisss,
+            R.drawable.blissss,
+            R.drawable.box,
+            R.drawable.cat,
+            R.drawable.deeer,
+            R.drawable.deer,
+            R.drawable.gogs,
+            R.drawable.jumbo,
+            R.drawable.random,
+            R.drawable.spec,
+            R.drawable.spect
     };
 
 

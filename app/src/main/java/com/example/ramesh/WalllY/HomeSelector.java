@@ -1,4 +1,4 @@
-package com.example.ramesh.mywallpaper;
+package com.example.ramesh.WalllY;
 
 import android.app.Activity;
 import android.content.DialogInterface;
@@ -7,11 +7,6 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.PopupMenu;
-import android.view.MenuInflater;
-import android.support.v4.app.Fragment;
-import android.view.View;
-import android.widget.ImageView;
 
 
 public class HomeSelector extends AppCompatActivity implements PageSelectedListener{

@@ -1,4 +1,4 @@
-package com.example.ramesh.mywallpaper;
+package com.example.ramesh.WalllY;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.ramesh.mywallpaper", appContext.getPackageName());
+        assertEquals("com.example.ramesh.WalllY", appContext.getPackageName());
     }
 }

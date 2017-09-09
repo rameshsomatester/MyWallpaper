@@ -21,6 +21,7 @@
         android:id="@+id/PAger"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginBottom="10dp"
         android:layout_below="@+id/TV1">
     </android.support.v4.view.ViewPager>
 
